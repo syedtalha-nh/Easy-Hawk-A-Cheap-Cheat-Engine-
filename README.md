@@ -1,5 +1,8 @@
 # Easy-Hawk-A-Cheap-Cheat-Engine-
 This is a cheap copy of cheat engine but very user friendly. This make cheat engine very easy to use.
+
+There are downloadable files in the releases, please do try them out.
+
 🦅 EasyHawk
 
 A beginner-friendly memory scanner for Windows — easier than Cheat Engine.
@@ -14,11 +17,8 @@ Edit and freeze values directly in memory
 
 🚀 How to run:
 
-bash# Run directly
-python easyhawk.py
-
-# Or build an exe
-python -m PyInstaller --onefile --windowed --name EasyHawk easyhawk.py
+Run directly through file explorer:
+Go into the dist folder and you can find easyhawk.exe
 
 Always run as Administrator for memory access to work.
 
